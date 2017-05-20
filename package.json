@@ -1,0 +1,29 @@
+{
+  "name": "support-hub",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dloret/support-hub.git"
+  },
+  "author": {
+    "name": "Donatien LORET"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dloret/support-hub/issues"
+  }
+}
