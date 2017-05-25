@@ -22,3 +22,6 @@ yarn-error.log*
 
 # VS Code
 /.vscode
+
+# CSS files (keep SCSS)
+/src/**/*.css
