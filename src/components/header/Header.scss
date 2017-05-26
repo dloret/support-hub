@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico');
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background-image: url('../../assets/images/backg-nav.jpg');
+  img {
+    max-height: 70px;
+  }
+  h1 {
+    font-family: 'Pacifico', cursive;
+    color: whitesmoke;
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+}
