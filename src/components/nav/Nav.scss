@@ -1,6 +1,35 @@
+nav {
+  padding-left: 5px;
+  padding-right: 5px;
+  border: 1px dotted black;
+  background-color: lighten(blanchedalmond, 5);
+  width: 129px;
+  height: 100vh;
+}
+
 ul {
   display: flex;
+  flex-direction: column;
+  padding-left: 0;
   li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     list-style-type: none;
+    color: orangered;
+    background-color: whitesmoke;
+    font-weight: bold;
+    height: 50px;
+    border: 2px orangered solid;
+    box-shadow: 2px 2px 2px lightgray;
+    border-radius: 5px;
+    margin-top: 3px;
+    &:hover {
+      background-color: darken(lightyellow, 10);
+      transform: scaleX(1.1);
+    }
+    &.active {
+      background-color: lighten(orange, 10);
+    }
   }
 }
