@@ -16,7 +16,6 @@ ul {
     align-items: center;
     justify-content: center;
     list-style-type: none;
-    color: orangered;
     background-color: whitesmoke;
     font-weight: bold;
     height: 50px;
@@ -24,6 +23,10 @@ ul {
     box-shadow: 2px 2px 2px lightgray;
     border-radius: 5px;
     margin-top: 3px;
+    a {
+      text-decoration: none;
+      color: orangered;
+    }
     &:hover {
       background-color: darken(lightyellow, 10);
       transform: scaleX(1.1);
