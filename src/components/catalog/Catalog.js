@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Links = (props) => {
+export const Catalog = (props) => {
   return (
     <div>Links!</div>
   );

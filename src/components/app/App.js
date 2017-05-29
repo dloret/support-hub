@@ -2,7 +2,9 @@ import React, { Component } from 'react';
 
 import dataSource from '../../assets/data-sources/links.json';
 import Header from '../header/Header';
-import {Nav} from '../nav/Nav';
+import { Nav } from '../nav/Nav';
+import { Routes } from '../routes/Routes';
+import './App.scss';
 
 class App extends Component {
   constructor(props) {
@@ -25,12 +27,12 @@ class App extends Component {
 
   render() {
     return (
-      <div className="App">
+      <Routes selectedMenu={this.state.selectedMenu}>
         <Header />
         <Nav menus={this.state.menuList}
           selectedMenu={this.state.selectedMenu}
           updateMenu={this.updateSelectedMenu} />
-      </div>
+      </Routes>
     );
   }
 }
