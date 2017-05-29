@@ -1,7 +1,9 @@
 import React from 'react';
 
+import './Catalog.css';
+
 export const Catalog = (props) => {
   return (
-    <div>Links!</div>
+    <div className='catalog'>Links!</div>
   );
 }

@@ -11,11 +11,10 @@ export const Nav = ({menus, selectedMenu, updateMenu}) => {
       <ul>
       {menus.map(menu => {
         return (
-          <li
-            key={menu}
+          <Link to={menu} key={menu}><li
             onClick={changeMenu.bind(null, menu)}
             className={(menu === selectedMenu) ? 'active' : null}
-          ><Link to={menu}>{menu}</Link></li>
+          >{menu}</li></Link>
         );
       })}
       </ul>

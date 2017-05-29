@@ -4,7 +4,7 @@ import dataSource from '../../assets/data-sources/links.json';
 import Header from '../header/Header';
 import { Nav } from '../nav/Nav';
 import { Routes } from '../routes/Routes';
-import './App.scss';
+import './App.css';
 
 class App extends Component {
   constructor(props) {

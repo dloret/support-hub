@@ -11,6 +11,10 @@ ul {
   display: flex;
   flex-direction: column;
   padding-left: 0;
+  a {
+    text-decoration: none;
+    color: orangered;
+  }
   li {
     display: flex;
     align-items: center;
@@ -23,10 +27,6 @@ ul {
     box-shadow: 2px 2px 2px lightgray;
     border-radius: 5px;
     margin-top: 3px;
-    a {
-      text-decoration: none;
-      color: orangered;
-    }
     &:hover {
       background-color: darken(lightyellow, 10);
       transform: scaleX(1.1);

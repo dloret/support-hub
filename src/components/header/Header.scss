@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico');
 
 header {
+  flex: 1;
   display: flex;
   justify-content: space-between;
   background-image: url('../../assets/images/backg-nav.jpg');
+  max-height: 70px;
+  min-width: 100vw;
   img {
     max-height: 70px;
   }
