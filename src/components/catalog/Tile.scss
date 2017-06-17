@@ -1,0 +1,40 @@
+.tile {
+  border: 1px black dotted;
+  border-radius: 5px;
+  width: 10vw;
+  text-align: center;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+
+  .id {
+    display: inline;
+    font-size: .5em;
+    color: darkslategrey;
+    margin: 0;
+  }
+
+  h3 {
+    display: inline;
+    font-size: 1em;
+    color: black;
+    margin: 0;
+  }
+
+  img {
+    display: block;
+    width: 5vw;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  p {
+    color: black;
+    font-size: .9em;
+    margin: 0;
+  }
+
+}

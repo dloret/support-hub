@@ -1,6 +1,7 @@
 import React from 'react';
 
 import {Tile} from './Tile';
+import './Title.css';
 
 export const Title = (props) => {
   return (
@@ -13,7 +14,7 @@ export const Title = (props) => {
           desc={item.alt}
           id={item.id}
           image={item.image}
-          tool={item.subtitle}
+          tool={item.tool}
           url={item.url} />)}
     </div>
   )
