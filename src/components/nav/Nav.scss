@@ -22,8 +22,7 @@ ul {
     background-color: whitesmoke;
     font-weight: bold;
     height: 50px;
-    border: 2px orangered solid;
-    box-shadow: 2px 2px 2px lightgray;
+    box-shadow: 4px 4px 4px #AAA;
     border-radius: 5px;
     margin-top: 3px;
     &:hover {
@@ -31,7 +30,8 @@ ul {
       transform: scaleX(1.1);
     }
     &.active {
-      background-color: lighten(orange, 10);
+      background: linear-gradient(45deg, #ffc578 0%,#fb9d23 100%);
+      color: whitesmoke;
     }
   }
 }
