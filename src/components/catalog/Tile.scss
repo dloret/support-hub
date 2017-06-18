@@ -1,5 +1,5 @@
 .tile {
-  border: 1px black dotted;
+  background: -webkit-linear-gradient(45deg, #7d7e7d 0%,#0e0e0e 100%);
   border-radius: 5px;
   width: 10vw;
   text-align: center;
@@ -7,34 +7,36 @@
   margin-bottom: 10px;
   padding: 0;
   display: flex;
-  flex-wrap: wrap;
-
-  .id {
-    display: inline;
-    font-size: .5em;
-    color: darkslategrey;
-    margin: 0;
-  }
+  flex-flow: column wrap;
 
   h3 {
-    display: inline;
+    color: #DFD;
+    display: inline-flex;
     font-size: 1em;
-    color: black;
+    margin: 5px 0;
+  }
+
+  .id {
+    color: #999;
+    display: inline-flex;
+    font-size: .5em;
     margin: 0;
   }
 
   img {
-    display: block;
     width: 5vw;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
+    margin: 0
   }
 
   p {
-    color: black;
+    color: #DFD;
     font-size: .9em;
-    margin: 0;
+    margin: 5px 0;
+  }
+
+  &:hover {
+    box-shadow: 5px 5px 5px #999;
+    transform: translate(-2px, -2px);
   }
 
 }
