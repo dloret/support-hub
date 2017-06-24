@@ -1,26 +1,21 @@
-@import url('https://fonts.googleapis.com/css?family=Lobster');
-
+@import url("https://fonts.googleapis.com/css?family=Lobster");
 header {
   flex: 1;
   display: flex;
   justify-content: space-between;
-  background-image: url('../../assets/images/backg-nav.jpg');
+  background-image: url("../../assets/images/backg-nav.jpg");
   max-height: 70px;
-  min-width: 100vw;
-  img {
-    max-height: 70px;
-  }
-  h1 {
+  min-width: 100vw; }
+  header img {
+    max-height: 70px; }
+  header h1 {
     font-family: Lobster, cursive;
     color: whitesmoke;
     font-size: 1.5em;
-    margin-top: 17px;
-  }
-  h2 {
+    margin-top: 17px; }
+  header h2 {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: whitesmoke;
     font-size: .8em;
     margin-right: 10px;
-    margin-top: 30px;
-  }
-}
+    margin-top: 30px; }

@@ -395,38 +395,6 @@
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
-    "id": "41",
-    "context": "templates",
-    "category": "category 1",
-    "language": "EN",
-    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    "id": "42",
-    "context": "templates",
-    "category": "category 1",
-    "language": "FR",
-    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    "id": "43",
-    "context": "templates",
-    "category": "category 1",
-    "language": "EN",
-    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
-    "id": "44",
-    "context": "templates",
-    "category": "category 1",
-    "language": "FR",
-    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  },
-  {
     "id": "45",
     "context": "templates",
     "category": "category 1",
@@ -467,9 +435,9 @@
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
-    "id": "93",
+    "id": "50",
     "context": "templates",
-    "category": "category 2",
+    "category": "category 1",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -477,7 +445,7 @@
   {
     "id": "51",
     "context": "templates",
-    "category": "category 2",
+    "category": "category 1",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -485,7 +453,7 @@
   {
     "id": "52",
     "context": "templates",
-    "category": "category 2",
+    "category": "category 1",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -493,7 +461,7 @@
   {
     "id": "53",
     "context": "templates",
-    "category": "category 2",
+    "category": "category 1",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -533,7 +501,7 @@
   {
     "id": "58",
     "context": "templates",
-    "category": "category 3",
+    "category": "category 2",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -541,7 +509,7 @@
   {
     "id": "59",
     "context": "templates",
-    "category": "category 3",
+    "category": "category 2",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -549,7 +517,7 @@
   {
     "id": "60",
     "context": "templates",
-    "category": "category 3",
+    "category": "category 2",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -557,7 +525,7 @@
   {
     "id": "61",
     "context": "templates",
-    "category": "category 3",
+    "category": "category 2",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -566,7 +534,7 @@
     "id": "62",
     "context": "templates",
     "category": "category 3",
-    "language": "EN",
+    "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
@@ -574,7 +542,7 @@
     "id": "63",
     "context": "templates",
     "category": "category 3",
-    "language": "FR",
+    "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
@@ -582,22 +550,22 @@
     "id": "64",
     "context": "templates",
     "category": "category 3",
-    "language": "EN",
+    "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
     "id": "65",
     "context": "templates",
-    "category": "category 4",
-    "language": "FR",
+    "category": "category 3",
+    "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
     "id": "66",
     "context": "templates",
-    "category": "category 4",
+    "category": "category 3",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -605,7 +573,7 @@
   {
     "id": "67",
     "context": "templates",
-    "category": "category 5",
+    "category": "category 3",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -613,7 +581,7 @@
   {
     "id": "68",
     "context": "templates",
-    "category": "category 5",
+    "category": "category 3",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -621,7 +589,7 @@
   {
     "id": "69",
     "context": "templates",
-    "category": "category 5",
+    "category": "category 4",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -629,7 +597,7 @@
   {
     "id": "70",
     "context": "templates",
-    "category": "category 5",
+    "category": "category 4",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -717,7 +685,7 @@
   {
     "id": "81",
     "context": "templates",
-    "category": "category 6",
+    "category": "category 5",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -725,7 +693,7 @@
   {
     "id": "82",
     "context": "templates",
-    "category": "category 6",
+    "category": "category 5",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -733,7 +701,7 @@
   {
     "id": "83",
     "context": "templates",
-    "category": "category 6",
+    "category": "category 5",
     "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -741,7 +709,7 @@
   {
     "id": "84",
     "context": "templates",
-    "category": "category 6",
+    "category": "category 5",
     "language": "EN",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
@@ -798,12 +766,44 @@
     "id": "91",
     "context": "templates",
     "category": "category 6",
-    "language": "EN",
+    "language": "FR",
     "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
     "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   },
   {
     "id": "92",
+    "context": "templates",
+    "category": "category 6",
+    "language": "EN",
+    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "id": "93",
+    "context": "templates",
+    "category": "category 6",
+    "language": "FR",
+    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "id": "94",
+    "context": "templates",
+    "category": "category 6",
+    "language": "EN",
+    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "id": "95",
+    "context": "templates",
+    "category": "category 6",
+    "language": "EN",
+    "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  },
+  {
+    "id": "96",
     "context": "templates",
     "category": "category 6",
     "language": "FR",

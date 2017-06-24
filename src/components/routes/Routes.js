@@ -2,7 +2,7 @@ import React from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
 
 import Catalog from '../catalog/Catalog';
-import {Templates} from '../templates/Templates';
+import Templates from '../templates/Templates';
 
 export const Routes = (props) => {
     return (

@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css?family=Lobster");
+.templates {
+  width: 85vw;
+  margin-left: 10px; }
+  .templates fieldset {
+    margin-top: 10px;
+    border-radius: 5px;
+    background-color: #fff5e7; }
+    .templates fieldset legend {
+      font-weight: bold;
+      margin-bottom: 5px; }
+    .templates fieldset .fieldsetContent {
+      display: inline-flex;
+      color: #555; }
+      .templates fieldset .fieldsetContent input {
+        margin-right: 15px; }
+  .templates h2 {
+    font-family: Lobster, cursive;
+    font-size: 2rem; }
+  .templates .message {
+    display: flex;
+    flex-wrap: wrap; }
+    .templates .message button {
+      margin-top: 5px; }
+    .templates .message h1 {
+      font-size: 1rem;
+      margin-left: 5px;
+      margin-bottom: 5px;
+      cursor: pointer; }
+      .templates .message h1 small {
+        font-size: .5rem;
+        color: #555; }
+    .templates .message textarea {
+      flex: 1 1 100%;
+      height: 70px;
+      font-size: .9rem;
+      margin-left: 30px;
+      margin-top: 5px;
+      margin-bottom: 10px;
+      border: none;
+      background-color: #fff5e7; }
